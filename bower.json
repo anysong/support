@@ -1,0 +1,22 @@
+{
+  "name": "support",
+  "description": "react support",
+  "main": "index.js",
+  "authors": [
+    "anysong <985774505@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/anysong/support",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "babel": "^5.8.38",
+    "jquery": "^3.3.1",
+    "react": "^16.1.0"
+  }
+}
