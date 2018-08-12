@@ -36,6 +36,8 @@ babel
 
 	componentWillUnmount
 
+ref 相当于ID
+
 
 
 
