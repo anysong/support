@@ -38,6 +38,8 @@ babel
 
 ref 相当于ID
 
+this.refs['xxx']
+
 
 
 

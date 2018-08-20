@@ -18,5 +18,8 @@
   },
   "homepage": "https://github.com/anysong/support#readme",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "webpack": "^4.16.5"
+  }
 }
